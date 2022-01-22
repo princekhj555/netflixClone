@@ -1,4 +1,4 @@
-LIVE Project Hosted With FIREBASE : https://netflixclone555.web.app
+LIVE Project Hosted With FIREBASE : https://netflixclone555.firebaseapp.com
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
